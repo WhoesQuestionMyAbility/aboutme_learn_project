@@ -6,4 +6,53 @@
     android:layout_height="match_parent"
     tools:context="a5dots.com.aboutme.MainActivity">
 
+    <Button
+        android:id="@+id/bootom_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginEnd="8dp"
+        android:layout_marginStart="8dp"
+        android:text="@string/button_more_info"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="8dp"
+        app:layout_constraintTop_toTopOf="parent"
+        tools:layout_editor_absoluteX="8dp">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/full_name"
+                android:layout_width="match_parent"
+                android:layout_height="33dp"
+                android:text="@string/fullname"
+                android:textSize="@dimen/text_fullname_size"
+                tools:layout_editor_absoluteX="105dp"
+                tools:layout_editor_absoluteY="113dp" />
+
+            <TextView
+                android:id="@+id/tel_number"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/tel_number"
+                android:textColor="@color/color_text_number"
+                android:textSize="@dimen/text_number_size"
+                tools:layout_editor_absoluteX="124dp"
+                tools:layout_editor_absoluteY="146dp" />
+
+            <TextView
+                android:id="@+id/info"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="@string/more_info" />
+        </LinearLayout>
+    </ScrollView>
 </android.support.constraint.ConstraintLayout>

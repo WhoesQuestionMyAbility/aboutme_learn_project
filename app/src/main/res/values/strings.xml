@@ -1,3 +1,21 @@
 <resources>
     <string name="app_name">AboutMe</string>
+    <string name="fullname">Rostislav Kuchin</string>
+    <string name="tel_number">+7 (996) 413-88-06</string>
+    <string name="button_more_info">Details</string>
+    <string name="more_info">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+        Vivamus tristique magna eu dictum fringilla. Curabitur pharetra commodo justo vel gravida.
+        Mauris vel mollis lacus. Vivamus volutpat risus quis diam porta rutrum. Cras non fringilla lorem.
+        Mauris ac orci diam. Cras sit amet dolor gravida, imperdiet nisl vel, molestie leo.
+        In pellentesque, turpis ac rhoncus dapibus, quam dolor hendrerit dui, sit amet ullamcorper felis turpis vitae urna.
+        Sed porta quam at luctus tristique. Integer eu leo metus. In laoreet nibh et quam feugiat, id hendrerit neque tincidunt.
+        Aenean eget nisi sed tellus iaculis iaculis. Donec pretium vitae arcu eget sodales.
+        Integer facilisis, est quis viverra efficitur, lacus enim auctor enim, ac sagittis leo nunc a lorem.
+        Nam a nibh vehicula, porttitor eros id, pharetra nisl.
+    </string>
+    <string name="skill1">Java lvl 0.0001</string>
+    <string name="skill2">Android def me pls</string>
+    <string name="interest1">LOLETSGO</string>
+    <string name="interest2">Sleep</string>
 </resources>

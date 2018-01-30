@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="text_more_info_size">16sp</dimen>
+    <dimen name="text_fullname_size">24sp</dimen>
+    <dimen name="text_number_size">16sp</dimen>
+    <dimen name="text_skills_interests">16sp</dimen>
+</resources>
