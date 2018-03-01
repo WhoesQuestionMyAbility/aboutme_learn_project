@@ -14,8 +14,12 @@
         Integer facilisis, est quis viverra efficitur, lacus enim auctor enim, ac sagittis leo nunc a lorem.
         Nam a nibh vehicula, porttitor eros id, pharetra nisl.
     </string>
+    <string name="interest">Интересы</string>
+    <string name="skills">Навыки</string>
     <string name="skill1">Java lvl 0.0001</string>
     <string name="skill2">Android def me pls</string>
     <string name="interest1">LOLETSGO</string>
     <string name="interest2">Sleep</string>
+    <string name="test">SAIKOSYS</string>
+
 </resources>

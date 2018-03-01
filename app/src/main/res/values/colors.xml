@@ -2,7 +2,24 @@
 <resources>
     <color name="colorPrimary">#3f51b5</color>
     <color name="colorPrimaryDark">#303F9F</color>
-    <color name="colorAccent">#FF4081</color>
+    <color name="colorAccent">#009688</color>
+
+    <!--#FF4081-->
+
     <color name="color_text_number">#BDBDBD</color>
     <color name="color_button_bg">#B3E5FC</color>
+    <color name="name_phone_bg">#32000000</color>
+    <color name="fab_color">#009688</color>
+    <color name="mail_social_color">#92CBC5</color>
+    <color name="mail_social_bg_color">#303030</color>
+    <color name="card_title">#455A64</color>
+
+    <!--IMPORT-->
+
+    <color name="grey">#5d5d5d</color>
+    <color name="grey_light">#9c9c9c</color>
+    <color name="grey_bg">#454545</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
 </resources>

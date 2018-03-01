@@ -16,4 +16,13 @@ public class CharHolder {
         this.img = img;
         this.title = title;
     }
+
+
+    public int getImg() {
+        return img;
+    }
+
+    public int getTitleHolder() {
+        return title;
+    }
 }
